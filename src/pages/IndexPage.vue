@@ -55,11 +55,7 @@
     </div>
 
     <!-- Floating Family Photo (Bottom Right) -->
-    <img
-      alt="Missionary family"
-      src="https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/eecff634-5a59-440e-b72d-83b4008f420f.png"
-      class="family-photo"
-    />
+    <img alt="Missionary family" src="~assets/Tonog.png" class="family-photo" />
     <!-- Main CTA Button (Center) -->
     <!--
     <div class="absolute-center text-center" style="z-index: 5">
@@ -128,7 +124,7 @@ export default {
 .family-photo {
   position: absolute;
   bottom: 20px;
-  right: 20px;
+  right: 50px;
   width: 300px;
   height: 300px;
   border-radius: 50%;
